@@ -13,7 +13,7 @@ var validator = require('validator');
  // Configured in config module
  
  // Windows env 
- var file_path = config.nginx_conf_path_win; 
+ //var file_path = config.nginx_conf_path_win; 
  
  // Linux env - CentOS 
  var file_path = config.nginx_conf_path; 

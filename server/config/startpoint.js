@@ -29,9 +29,9 @@ var User = require('../api/user/user.model');
 Nginxwebadmin.find({}).remove(function() {
   
 var i = 0;
-var pathconf = 'C:\\API\\Nginx\\nginx-1.9.2\\conf\\includes\\myallow.conf';
+//var pathconf = 'C:\\API\\Nginx\\nginx-1.9.2\\conf\\includes\\myallow.conf';
 
-//var pathconf = '/etc/nginx/includes/myallow.conf';
+var pathconf = '/etc/nginx/includes/myallow.conf';
 
  eachLine(pathconf, function(line) {
 	 //console.log(line);
