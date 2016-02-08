@@ -1,0 +1,42 @@
+2015/11/16 21:26:40 [error] 2144#8348: *1 CreateFile() "C:\API\Nginx\nginx-1.9.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2015/11/16 22:12:17 [error] 2144#8348: *7 directory index of "C:\API\Nginx\nginx-1.9.2/html/webmin/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /webmin/ HTTP/1.1", host: "localhost"
+2015/11/16 22:15:07 [error] 2144#8348: *11 directory index of "C:\API\Nginx\nginx-1.9.2/html/webmin/webmin/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /webmin/webmin/ HTTP/1.1", host: "localhost"
+2015/11/25 16:16:45 [error] 4084#6428: *1 CreateFile() "C:\API\Nginx\nginx-1.9.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2015/11/27 16:48:04 [warn] 9736#8280: low address bits of 192.168.1.1/24 are meaningless in C:\API\Nginx\nginx-1.9.2/conf/nginx.conf:48
+2015/11/27 16:48:04 [emerg] 9736#8280: CreateDirectory() "C:\API\Nginx\nginx-1.9.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2015/11/27 16:48:41 [error] 4084#6428: *4 CreateFile() "C:\API\Nginx\nginx-1.9.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2015/11/27 16:50:04 [warn] 11696#6496: low address bits of 192.168.1.1/24 are meaningless in C:\API\Nginx\nginx-1.9.2/conf/nginx.conf:48
+2015/11/27 16:50:04 [emerg] 11696#6496: CreateDirectory() "C:\API\Nginx\nginx-1.9.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2015/11/27 16:50:57 [emerg] 8060#10476: CreateDirectory() "C:\API\Nginx\nginx-1.9.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2015/11/27 16:51:26 [emerg] 11952#9448: CreateDirectory() "C:\API\Nginx\nginx-1.9.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2015/11/27 16:54:39 [emerg] 9496#10632: CreateDirectory() "C:\API\Nginx\nginx-1.9.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2015/11/27 16:58:27 [error] 4084#6428: *11 CreateFile() "C:\API\Nginx\nginx-1.9.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2015/11/27 16:58:30 [error] 4084#6428: *11 CreateFile() "C:\API\Nginx\nginx-1.9.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2015/11/27 16:58:30 [error] 4084#6428: *11 CreateFile() "C:\API\Nginx\nginx-1.9.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2015/11/27 16:58:30 [error] 4084#6428: *11 CreateFile() "C:\API\Nginx\nginx-1.9.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2015/11/27 16:58:30 [error] 4084#6428: *11 CreateFile() "C:\API\Nginx\nginx-1.9.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2015/11/27 17:04:34 [notice] 9940#5184: signal process started
+2015/11/27 17:04:55 [error] 10528#8368: *1 access forbidden by rule, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8090"
+2015/11/27 17:04:55 [error] 10528#8368: *1 access forbidden by rule, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8090", referrer: "http://localhost:8090/"
+2015/11/27 17:06:04 [notice] 12104#5632: signal process started
+2015/11/27 17:06:21 [error] 4320#9180: *4 CreateFile() "C:\API\Nginx\nginx-1.9.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8090", referrer: "http://localhost:8090/"
+2015/11/27 17:07:03 [notice] 6148#11764: signal process started
+2015/11/27 17:07:54 [error] 7868#11476: *12 access forbidden by rule, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8090"
+2015/11/27 17:08:20 [error] 7868#11476: *12 access forbidden by rule, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8090"
+2015/11/27 17:08:25 [notice] 7592#8792: signal process started
+2015/11/30 16:02:23 [error] 4084#6428: *24 CreateFile() "C:\API\Nginx\nginx-1.9.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2015/11/30 16:03:05 [notice] 988#13228: signal process started
+2015/11/30 16:03:52 [error] 6156#6700: *16 access forbidden by rule, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1:8090"
+2015/11/30 16:03:53 [error] 6156#6700: *16 access forbidden by rule, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8090", referrer: "http://127.0.0.1:8090/"
+2015/11/30 16:04:05 [notice] 12340#14064: signal process started
+2015/11/30 16:04:07 [error] 11780#9568: *17 CreateFile() "C:\API\Nginx\nginx-1.9.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8090", referrer: "http://127.0.0.1:8090/"
+2015/11/30 16:06:33 [emerg] 1148#6692: CreateFile() "C:\API\Nginx\nginx-1.9.2/conf/includes/myallow" failed (2: The system cannot find the file specified) in C:\API\Nginx\nginx-1.9.2/conf/nginx.conf:56
+2015/11/30 16:06:53 [emerg] 13984#13468: unexpected end of file, expecting ";" or "}" in C:\API\Nginx\nginx-1.9.2/conf/includes/myallow.conf:1
+2015/11/30 16:07:12 [notice] 6516#11528: signal process started
+2015/11/30 16:07:36 [notice] 13756#7400: signal process started
+2015/11/30 16:07:41 [error] 13004#9480: *19 access forbidden by rule, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1:8090"
+2015/11/30 16:07:55 [notice] 11932#12824: signal process started
+2015/11/30 16:10:00 [notice] 13268#12756: signal process started
+2015/11/30 16:42:40 [notice] 10772#9024: signal process started
+2015/11/30 17:43:09 [notice] 13676#8740: signal process started
+2015/11/30 17:51:18 [notice] 14120#14332: signal process started
